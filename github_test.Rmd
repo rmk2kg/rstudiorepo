@@ -12,3 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 print("I'm learning GitHub")
 ```
+
+```{r}
+print("Does this work?")
+```
